@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Raja Yadav
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning in School
+- This is a color picker gui python file for all programers and devloper
